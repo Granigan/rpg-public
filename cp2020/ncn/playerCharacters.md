@@ -15,48 +15,42 @@ None of the characters are legends, but all are capable. The character creation 
 - Slight changes in stats or skills are possible on request supported by character history. (E.g. change martial arts type, or move a point from Cool to Attr.)
 - Reputation is adjustable (about range 0-3).
 - Each character needs to fulfill their class specific requirements (see below).
+- Starting cash: d2(3000eb - monthly expenses)
 
 ### Media (1)
 - Focus: Reveal the story. Deliver it. Interviews and presentation, leadership.
 - Min remaining empathy after cyber: 6
 - Motivation: Fame, Idealism, Power.
-- Starting cash: 3000eb - 1 month expenses
 ### (Ex-)Cop (0-1)
 - Role: Investigator
 - Focus: Leadership. Find witnesses and get them talking. Discover leads. Get information from officials, run investigations.
 - Min remaining empathy after cyber: 5
 - Suggested motivation: Idealism, Justice, Revenge.
-- Starting cash: 3000eb - 1 month expenses
 ### Fixer (0-1)
 - Role: Investigator
 - Focus: Leadership. Find witnesses and get them talking. Discover leads. Get information from the streets, run investigations.
 - Min remaining empathy after cyber: 5
 - Suggested motivation: Power, Favours, Information.
-- Starting cash: 6000eb - 2 month expenses
 ### Techie (0-1)
 - Role: Support
 - Focus: Maintain and use broadcasting and other electronics gear. Grey ops electronic surveillance and information gathering.
 - Min remaining empathy after cyber: 4
 - Suggested motivation: Money, Fame, Tech.
-- Starting cash: 3000eb - 1 month expenses
 ### Medtechie (0-1)
 - Role: Support
 - Focus: Maintain and use broadcasting and other electronics gear. Grey ops electronic surveillance and information gathering.
 - Min remaining empathy after cyber: 4
 - Suggested motivation: Idealism, Money, Relationship.
-- Starting cash: 3000eb - 1 month expenses
 ### Solo (0-1)
 - Role: Security
 - Focus: Provide security, bully people to talk if needed.
 - Min remaining empathy after cyber: 3
 - Suggested motivation: Revenge, Power, Personal Improvement.
-- Starting cash: 9000eb - 2 month expenses
 ### Nomad (0-1)
 - Role: Security
 - Focus: Provide security, be scary as needed.
 - Min remaining empathy after cyber: 4
 - Suggested motivation: Money, Favours, Information.
-- Starting cash: 2000eb - 1 month expenses
 
 ### Suit, Netrunner, Rocker (0)
 - Suit and Netrunner services are provided by the corp.
