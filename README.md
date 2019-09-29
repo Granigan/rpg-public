@@ -5,6 +5,6 @@
 ### House rules
 - [Combat Rules](cp2020/combatRules.md)
 ### Campaign: This is Night City News
-- [Getting Started: Character Creation](ncn/playerCharacters.md)
+- [Getting Started: Character Creation](cp2020/ncn/playerCharacters.md)
 
 
